@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main - A prhram that prints a line using the printf function
+ * main - A program that prints a line with puts function
+ *
  * Return: 0 (Success)
  */
-int main (void)
+int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n")
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
-
